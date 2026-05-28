@@ -1,0 +1,6 @@
+La terminal es una herramienta muy importante para un desarrollador porque permite trabajar de manera rápida y organizada dentro de un proyecto. 
+Con la terminal se pueden crear carpetas, archivos y navegar fácilmente entre directorios.
+También ayuda a ejecutar comandos necesarios para programar y administrar proyectos. Muchos procesos en desarrollo web y software se realizan desde la terminal porque es más eficiente. 
+Además, permite usar herramientas como Git para guardar cambios y publicar proyectos en GitHub. 
+Aprender a usar la terminal mejora las habilidades técnicas y facilita el trabajo en equipo. También ayuda a comprender mejor cómo funciona el sistema operativo. 
+Por eso, conocer los comandos básicos es fundamental para cualquier desarrollador.
