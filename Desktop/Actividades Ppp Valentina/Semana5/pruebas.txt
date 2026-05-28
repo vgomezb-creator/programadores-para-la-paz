@@ -1,0 +1,6 @@
+Ruta /
+Al entrar a http://localhost:3000 se muestra el mensaje "Servidor activo", lo que indica que el servidor está funcionando correctamente.
+Ruta /saludo
+Al entrar a http://localhost:3000/saludo el servidor responde "Hola comunidad", mostrando una ruta personalizada.
+Ruta /mensaje/juan
+Al entrar a http://localhost:3000/mensaje/juan el servidor responde "Hola juan", usando un parámetro en la URL para personalizar el mensaje.
